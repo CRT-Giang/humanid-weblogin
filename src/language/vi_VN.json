@@ -1,11 +1,11 @@
 {
-    "language": "Vietnamese",
+    "language": "Tiếng Việt",
     "phone": "Số điện thoại",
     "countryCode": "Mã Quốc Gia",
     "code": "Mã Xác Minh",
     "sendCode": "Gửi mã xác minh qua tin nhắn (SMS)",
     "newAccount": "Thay số điện thoại mới?",
-    "redirect": "Redirect Now",
+    "redirect": "Chuyển tiếp ngay",
     "verify": "Xin vui lòng xác minh số điện thoại của bạn.",
     "resend": "Gửi lại mã số.",
     "try": "Thử số điện thoại khác",
@@ -22,15 +22,15 @@
         "codeNumeric": "Bạn chỉ được nhập số vào ô Mã xác minh"
     },
     "error": {
-        "found": "Error not found.",
+        "found": "Không tìm thấy lỗi.",
         "try": "Đã xảy ra lỗi trong khi gửi dữ liệu. Xin vui lòng thử lại.",
         "tokenExpired": "Thời hạn đã kết thúc - Xin vui lòng bắt đầu lại quá trình xác minh",
         "sessionExpired": "Phiên đã hết hạn, xin vui lòng làm lại từ đầu.",
-        "appId": "The AppId not found",
-        "verify": "Phone number verification ends"
+        "appId": "Không thấy AppId",
+        "verify": "Kết thúc xác minh số điện thoại"
     },
     "text": {
-        "pageTitle": "Websites and Apps sẽ không lưu lại bất kỳ thông tin cá nhân nào của bạn.",
+        "pageTitle": "Trang web và ứng dụng sẽ không lưu lại bất kỳ thông tin cá nhân nào của bạn.",
         "pageTitleApp": "{APPNAME} sẽ không lưu lại bất kỳ thông tin cá nhân nào của bạn.",
         "phone": "Số điện thoại của bạn sẽ được xóa sau khi xác minh.",
         "privacy": "<a href=\"{LINK}\" target=\"_blank\">Tìm hiểu thêm về sứ mệnh bảo vệ quyền riêng tư.</a>",
